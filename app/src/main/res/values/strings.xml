@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">DotaHeroes</string>
+    <string name="title">Dota Heroes</string>
+    <string-array name="heroesNames">
+        <item>Pudge</item>
+        <item>Techies</item>
+        <item>Anti-Mage</item>
+        <item>Spirit Breaker</item>
+        <item>Viper</item>
+        <item>Enchantress</item>
+        <item>Abaddon</item>
+    </string-array>
+    <string-array name="heroesDescriptions">
+        <item>Жирная стюардесса</item>
+        <item>Террорист</item>
+        <item>Мое тп отменено игра проебана давно</item>
+        <item>Пивасик на месте</item>
+        <item>Туалетная гидра</item>
+        <item>Козаебучая</item>
+        <item>Важный надменный хуй</item>
+    </string-array>
+</resources>
